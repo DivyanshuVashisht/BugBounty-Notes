@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "7071bbb2b038c97d",
+    "type": "split",
+    "children": [
+      {
+        "id": "974c4f693a9bf933",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "17_WAF_Evasion_Techniques.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a16113904a016e31",
+    "type": "split",
+    "children": [
+      {
+        "id": "df349342f9f8b2ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e8eeeeefed749ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e536191f6425b66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9e8c5fbdd8f7681",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 162.5
+  },
+  "right": {
+    "id": "a40dc14dac243b52",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccd6310ef91dfafb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "206fece211578c3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "17_WAF_Evasion_Techniques.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b67ce063a6b29360",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "17_WAF_Evasion_Techniques.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e26d7bc3a06371c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "f7c29dca8cae9104",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "17_WAF_Evasion_Techniques.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "active": "974c4f693a9bf933",
+  "lastOpenFiles": [
+    "16_Attack+Technique+OS+Command+Injection.md",
+    "15_Attack+Technique+SSRF.md",
+    "14_Attack+Technique+Insecure+Deserialization.md",
+    "02_Main+App+Methodology.md",
+    "01_Intricacies+of+Bug+Bounties.md",
+    "03_Broad+Scope+Methadology.md",
+    "13_Attack+Technique+XSS.md",
+    "12_Attack+Technique+CSTI.md",
+    "11_Attack+Technique+SSTI.md",
+    "10_Attack+Technique+SQLi.md"
+  ]
+}
